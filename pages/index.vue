@@ -127,9 +127,6 @@
             <p class="mt-2 text-3xl leading-9 font-extrabold text-white sm:text-4xl sm:leading-10 lg:text-5xl lg:leading-none">
               Løsninger der passer dine behov
             </p>
-            <p class="mt-2 text-xl leading-7 text-gray-300">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum sequi unde repudiandae natus.
-            </p>
           </div>
         </div>
       </div>
