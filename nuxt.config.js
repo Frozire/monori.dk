@@ -26,6 +26,7 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
+    { src: '~/plugins/vue-fb-customer-chat.js', ssr: false }
   ],
   /*
   ** Nuxt.js dev-modules
