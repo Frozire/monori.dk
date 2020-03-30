@@ -1,19 +1,32 @@
 <template>
   <div>
-    <div class="relative bg-white overflow-hidden">
-      <div class="max-w-screen-xl mx-auto ">
-        <div class="relative z-10 pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
-          <div class="pt-6 px-4 sm:px-6 lg:px-8">
-            <nav class="relative flex items-center justify-between sm:h-10 lg:justify-start">
-              <div class="md:ml-10 md:pr-4">
-                <a href="#brands" class="ml-8 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Brands</a>
-                <a href="#priser" class="ml-8 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Priser</a>
-                <a href="#faq" class="ml-8 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">F.A.Q</a>
-              </div>
-            </nav>
+    <nav class="bg-white shadow-sm fixed w-full z-30 top-0">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex justify-between h-16">
+          <div class="flex">
+            <div class="hidden sm:ml-6 sm:flex">
+              <a href="#" class="ml-8 inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium leading-5 text-gray-500 hover:text-purple-700 hover:border-purple-300 transition duration-150 ease-in-out">
+                Til Toppen
+              </a>
+              <a href="#brands" class="ml-8 inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium leading-5 text-gray-500 hover:text-purple-700 hover:border-purple-300 transition duration-150 ease-in-out">
+                Brands
+              </a>
+              <a href="#priser" class="ml-8 inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium leading-5 text-gray-500 hover:text-purple-700 hover:border-purple-300 transition duration-150 ease-in-out">
+                Priser
+              </a>
+              <a href="#faq" class="ml-8 inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium leading-5 text-gray-500 hover:text-purple-700 hover:border-purple-300 transition duration-150 ease-in-out">
+                F.A.Q
+              </a>
+            </div>
           </div>
+        </div>
+      </div>
+    </nav>
 
-          <div class="mt-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
+    <div class="relative bg-white overflow-hidden">
+      <div class="max-w-screen-xl mx-auto">
+        <div class="relative flex z-20 pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
+          <div class="mt-10 justify-between mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
             <div class="sm:text-center lg:text-left">
               <div class="mt-12 sm:text-center md:max-w-2xl md:mx-auto lg:col-span-7 lg:text-left">
                 <h2 class="mt-1 text-3xl tracking-tight leading-10 font-extrabold text-gray-900 sm:leading-none sm:text-5xl lg:text-4xl xl:text-5xl">
@@ -33,7 +46,7 @@
         </div>
       </div>
       <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-        <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" src="https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="">
+        <img class="h-72 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" src="https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="">
       </div>
     </div>
     <div class="relative bg-white overflow-hidden">
@@ -69,7 +82,7 @@
       </div>
     </div>
     <div class="bg-purple-800">
-      <div class="pt-12 sm:pt-16 lg:pt-16" id="priser">
+      <div id="priser" class="pt-12 sm:pt-16 lg:pt-16">
         <div class="max-w-screen-xl mx-auto text-center px-4 sm:px-6 lg:px-8">
           <div class="max-w-3xl mx-auto lg:max-w-none">
             <h2 class="text-lg leading-6 font-semibold text-gray-300 uppercase tracking-wider">
@@ -327,7 +340,15 @@
 import Logo from '../components/Logo'
 
 export default {
-  components: { Logo }
+  components: { Logo },
+  computed: {
+    hash () {
+      if (process.client) {
+        return window.location.hash
+      }
+      return null
+    }
+  }
 }
 </script>
 
