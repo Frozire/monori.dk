@@ -35,7 +35,7 @@
                 </h2>
                 <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
                   Jeg har i flere år hjulpet brands online med sunde, stabile og fremtidsikrede løsninger.
-                  Alt fra skræddersyede løsninger med millioner af besøgende til seo-optimerede landing pages.
+                  Alt fra skræddersyede løsninger med millioner af besøgende til SEO-optimerede landing pages.
                 </p>
               </div>
             </div>
@@ -89,7 +89,7 @@
               Priser
             </h2>
             <p class="mt-2 text-3xl leading-9 font-extrabold text-white sm:text-4xl sm:leading-10 lg:text-5xl lg:leading-none">
-              Løsninger der passer dine behov
+              Løsninger der passer til dine behov
             </p>
           </div>
         </div>
@@ -103,7 +103,7 @@
                 <div class="px-6 py-8 bg-white sm:p-10 sm:pb-6">
                   <div>
                     <span class="inline-flex px-4 py-1 rounded-full text-sm leading-5 font-semibold tracking-wide uppercase bg-purple-100 text-purple-600">
-                      Konsulent Opgave
+                      Konsulentopgave
                     </span>
                   </div>
                   <div class="mt-4 flex items-baseline text-6xl leading-none font-extrabold">
@@ -145,13 +145,13 @@
                         </svg>
                       </div>
                       <p class="ml-3 text-base leading-6 text-gray-700">
-                        Løsninger der passer dine behov
+                        Løsninger der passer til dine behov
                       </p>
                     </li>
                   </ul>
                   <div class="mt-6 rounded-md shadow">
                     <a href="https://facebook.com/monori.dk" class="flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-purple-800 hover:bg-gray-800 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
-                      Kontakt Mig
+                      Kontakt mig
                     </a>
                   </div>
                 </div>
@@ -205,7 +205,7 @@
                   </ul>
                   <div class="mt-6 rounded-md shadow">
                     <a href="https://facebook.com/monori.dk" class="flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-purple-800 hover:bg-gray-800 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
-                      Kontakt Mig
+                      Kontakt mig
                     </a>
                   </div>
                 </div>
@@ -229,9 +229,9 @@
               </dt>
               <dd class="mt-2">
                 <p class="text-base leading-6 text-gray-500">
-                  Jeg vælger altid de teknologier der passer bedst til opgaven. Ofte er det Laravel til
+                  Jeg vælger altid de teknologier, der passer bedst til opgaven. Ofte er det Laravel til
                   skræddersyede løsninger, WordPress hvis der kræves CMS funktionalitet, og NodeJS til services.
-                  Det vigtigste er dog altid at vi finder det der passer dit projekts behov.
+                  Det vigtigste er dog altid, at vi finder det, der passer til dit projekts behov.
                 </p>
               </dd>
             </div>
@@ -241,9 +241,9 @@
               </dt>
               <dd class="mt-2">
                 <p class="text-base leading-6 text-gray-500">
-                  Bureauer er gode til store opgaver men hvis du har en mindre opgave
-                  kan du spare mange penge med den direkte kommunikation du får hos en konsulent.
-                  Med mig får du den samme sikre og erfarne rådgivning som nogen af danmarks største brands.
+                  Bureauer er gode til store opgaver, men hvis du har en mindre opgave,
+                  kan du spare mange penge med den direkte kommunikation, du får hos en konsulent.
+                  Med mig får du den samme sikre og erfarne rådgivning som nogle af Danmarks største brands.
                   Det er din sikkerhed for en professionel og holdbar levering uden forpligtelserne
                   ved et stort bureau.
                 </p>
@@ -255,10 +255,11 @@
               </dt>
               <dd class="mt-2">
                 <p class="text-base leading-6 text-gray-500">
-                  Ingen teknologi passer alle behov, derfor er det vigtigt at vælge
-                  den der passer dit behov. Hvadenten det er teknisk, skal passe
-                  i et eksisterende setup, eller det skal være let at
-                  finde kompetencer til bagefter.
+                  Der er ingen teknologi der passer til alle behov,
+                  og det er derfor vigtigt at man finder frem til den som passer dig bedst.
+                  Hvad enten behovet er teknisk, at skulle passe
+                  i et eksisterende setup, eller at det er let at
+                  finde kompetencer til vedligeholdelse efterfølgende.
                 </p>
               </dd>
             </div>
@@ -266,11 +267,11 @@
           <div class="mt-12 md:mt-0">
             <div>
               <dt class="text-lg leading-6 font-medium text-gray-900">
-                Jeg samarbejder med et bureau men savner sparring om deres leverancer?
+                Jeg samarbejder med et bureau men savner sparring omkring deres leverancer?
               </dt>
               <dd class="mt-2">
                 <p class="text-base leading-6 text-gray-500">
-                  Det er altid vigtigt at sikre sig at man får hvad man har aftalt og hvad man betaler for.
+                  Det er altid vigtigt at sikre sig, at man får hvad man har aftalt, og hvad man betaler for.
                   Derfor tilbyder jeg gennemgang af eksisterende kodebaser,
                   leverancer fra bureauer, eller rådgivning ved opstart af nye projekter.
                 </p>
@@ -282,10 +283,10 @@
               </dt>
               <dd class="mt-2">
                 <p class="text-base leading-6 text-gray-500">
-                  Det er en prioritering. Jeg værdsætter den balance og sikkerhed det giver at have
-                  et fast arbejde. De steder jeg er ansat giver mig en masse erfaring og
-                  et evigt udfordrende miljø som jeg ikke er klar til at give slip på. Hvis jeg supplere
-                  med konsulent opgaver får jeg friheden men beholder sikkerheden fra et fast arbejde.
+                  Det er en prioritering. Jeg værdsætter den balance og sikkerhed, det giver at have
+                  et fast arbejde. De steder jeg er ansat, giver mig en masse erfaring og
+                  et evigt udfordrende miljø, som jeg ikke er klar til at give slip på. Hvis jeg supplerer
+                  med konsulentopgaver, får jeg friheden, men beholder sikkerheden fra et fast arbejde.
                 </p>
               </dd>
             </div>
