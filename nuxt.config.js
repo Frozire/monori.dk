@@ -9,7 +9,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Få adgang til samme rådgivning og kompetencer som danmarks største brands. Få løst de mindre opgaver uden de store omkostninger ved bureauer' }
+      { hid: 'description', name: 'description', content: 'Få løst de mindre opgaver uden de store omkostninger ved bureauer - Samme rådgivning og kompetencer som danmarks største brands' }
     ],
     link: []
   },
