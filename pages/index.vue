@@ -175,7 +175,7 @@
                     </span>
                   </div>
                   <div class="mt-4 flex items-baseline text-6xl leading-none font-extrabold">
-                    799 DKK
+                    899 DKK
                     <span class="ml-1 text-2xl leading-8 font-medium text-gray-500">
                       /time
                     </span>
