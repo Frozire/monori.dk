@@ -5,11 +5,12 @@ export default {
   ** Headers of the page
   */
   head: {
-    title: 'Laravel udvikling og rådgivning - Nicklas K. Frank',
+    title: 'Laravel udvikling og rådgivning ved Nicklas K. Frank',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Få løst de mindre opgaver uden de store omkostninger ved bureauer - Samme rådgivning og kompetencer som danmarks største brands' }
+      { hid: 'description', name: 'description', content: 'Samme rådgivning og kompetencer som danmarks største brands. Få løst de mindre opgaver uden de store omkostninger ved bureauer.' },
+      { hid: 'title', name: 'title', content: 'Laravel udvikling og rådgivning ved Nicklas K. Frank' }
     ],
     link: []
   },
