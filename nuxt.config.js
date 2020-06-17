@@ -9,7 +9,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Samme rådgivning og kompetencer som danmarks største brands. Få løst de mindre opgaver uden de store omkostninger ved bureauer.' },
+      { hid: 'description', name: 'description', content: 'IT Konsulent med erfaring fra danmarks største brands. Jeg løser mindre opgaver i frameworks som Laravel og Vue uden de store omkostninger ved bureauer.' },
       { hid: 'title', name: 'title', content: 'Laravel udvikling og rådgivning ved Nicklas K. Frank' }
     ],
     link: []
