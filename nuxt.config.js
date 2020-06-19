@@ -20,7 +20,9 @@ export default {
         hid: 'title',
         name: 'title',
         content: 'Laravel udvikling og rådgivning ved Nicklas K. Frank'
-      },
+      }
+    ],
+    json: [
       {
         '@context': 'https://schema.org/',
         '@type': 'WebSite',
