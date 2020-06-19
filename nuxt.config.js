@@ -33,25 +33,6 @@ export default {
         type: 'application/ld+json'
       },
       {
-        json: {
-          '@context': 'https://schema.org/',
-          '@type': 'Product',
-          name: 'Laravel rådgivning og udvikling',
-          image: '',
-          description: 'Erfaren og pålidelig rådgivning - Sikker og professionel udvikling - Løsninger der passer til dine behov',
-          brand: 'Nicklas K. Frank',
-          offers: {
-            '@type': 'Offer',
-            url: 'https://laravelkonsulent.dk/#priser',
-            priceCurrency: 'DKK',
-            price: '899',
-            availability: 'https://schema.org/InStock',
-            itemCondition: 'https://schema.org/NewCondition'
-          }
-        },
-        type: 'application/ld+json'
-      },
-      {
         json:
         {
           '@context': 'https://schema.org/',
