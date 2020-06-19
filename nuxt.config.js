@@ -22,14 +22,20 @@ export default {
         content: 'Laravel udvikling og rådgivning ved Nicklas K. Frank'
       }
     ],
-    json: [
+    script: [
       {
-        '@context': 'https://schema.org/',
-        '@type': 'WebSite',
-        name: 'Laravel Konsulent ved Nicklas K. Frank',
-        url: 'https://laravelkonsulent.dk'
+        json: `
+        {
+          '@context': 'https://schema.org/',
+          '@type': 'WebSite',
+          name: 'Laravel Konsulent ved Nicklas K. Frank',
+          url: 'https://laravelkonsulent.dk'
+        }
+        `,
+        type: 'application/ld+json'
       },
       {
+        json: `{
         '@context': 'https://schema.org/',
         '@type': 'Product',
         name: 'Laravel rådgivning og udvikling',
@@ -44,8 +50,12 @@ export default {
           availability: 'https://schema.org/InStock',
           itemCondition: 'https://schema.org/NewCondition'
         }
+        `,
+        type: 'application/ld+json'
       },
       {
+        json: `
+        {
         '@context': 'https://schema.org/',
         '@type': 'Person',
         name: 'Nicklas K. Frank',
@@ -60,8 +70,13 @@ export default {
           '@type': 'Organization',
           name: 'Aller Media A/S'
         }
+        }
+        `,
+        type: 'application/ld+json'
       },
       {
+        json: `
+        {
         '@context': 'https://schema.org',
         '@type': 'Corporation',
         name: 'Laravel Konsulent ved Nicklas K. Frank',
@@ -69,8 +84,11 @@ export default {
         url: 'https://laravelkonsulent.dk',
         logo: '',
         sameAs: 'https://www.facebook.com/monori.dk'
+        }`,
+        type: 'application/ld+json'
       },
       {
+        json: `{
         '@context': 'https://schema.org',
         '@type': 'ProfessionalService',
         name: 'Laravel Konsulent ved Nicklas K. Frank',
@@ -98,6 +116,9 @@ export default {
           closes: '23:59'
         },
         sameAs: 'https://www.facebook.com/monori.dk'
+        }
+        `,
+        type: 'application/ld+json'
       }
     ],
     link: []
