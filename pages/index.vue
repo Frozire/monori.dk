@@ -108,7 +108,7 @@
         <logo />
       </div>
     </div>
-    <div class="relative bg-white overflow-hidden">
+    <div id="ommig" class="relative bg-white overflow-hidden">
       <div x-data="{ open: false }" class="relative pt-6 pb-16 md:pb-20 lg:pb-24 xl:pb-32">
         <div class="mt-8 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-20 xl:mt-24">
           <div class="lg:grid lg:grid-cols-12 lg:gap-8">
