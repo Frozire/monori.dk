@@ -47,7 +47,7 @@ export default {
           jobTitle: 'Senior Web Developer',
           worksFor: {
             '@type': 'Organization',
-            name: 'Aller Media A/S'
+            name: 'Laravel Konsulent ved Nicklas K. Frank'
           }
         },
         type: 'application/ld+json'
