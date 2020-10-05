@@ -1,8 +1,8 @@
 export default {
-  mode: 'universal',
-  /*
-  ** Headers of the page
-  */
+  // Target (https://go.nuxtjs.dev/config-target)
+  target: 'static',
+
+  // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     title: 'Laravel udvikling og rådgivning ved Nicklas K. Frank',
     meta: [
@@ -34,35 +34,35 @@ export default {
       },
       {
         json:
-        {
-          '@context': 'https://schema.org/',
-          '@type': 'Person',
-          name: 'Nicklas K. Frank',
-          url: 'https://laravelkonsulent.dk/#ommig',
-          image: 'https://laravelkonsulent.dk/nicklasfrank.jpg',
-          sameAs: [
-            'https://linkedin.com/in/nkfrank',
-            'https://github.com/Frozire'
-          ],
-          jobTitle: 'Senior Web Developer',
-          worksFor: {
-            '@type': 'Organization',
-            name: 'Laravel Konsulent ved Nicklas K. Frank'
-          }
-        },
+          {
+            '@context': 'https://schema.org/',
+            '@type': 'Person',
+            name: 'Nicklas K. Frank',
+            url: 'https://laravelkonsulent.dk/#ommig',
+            image: 'https://laravelkonsulent.dk/nicklasfrank.jpg',
+            sameAs: [
+              'https://linkedin.com/in/nkfrank',
+              'https://github.com/Frozire'
+            ],
+            jobTitle: 'Senior Web Developer',
+            worksFor: {
+              '@type': 'Organization',
+              name: 'Laravel Konsulent ved Nicklas K. Frank'
+            }
+          },
         type: 'application/ld+json'
       },
       {
         json:
-        {
-          '@context': 'https://schema.org',
-          '@type': 'Corporation',
-          name: 'Laravel Konsulent ved Nicklas K. Frank',
-          alternateName: 'Monori',
-          url: 'https://laravelkonsulent.dk',
-          logo: '',
-          sameAs: 'https://www.facebook.com/monori.dk'
-        },
+          {
+            '@context': 'https://schema.org',
+            '@type': 'Corporation',
+            name: 'Laravel Konsulent ved Nicklas K. Frank',
+            alternateName: 'Monori',
+            url: 'https://laravelkonsulent.dk',
+            logo: '',
+            sameAs: 'https://www.facebook.com/monori.dk'
+          },
         type: 'application/ld+json'
       },
       {
@@ -100,44 +100,38 @@ export default {
     ],
     link: []
   },
-  /*
-  ** Customize the progress-bar color
-  */
-  loading: { color: '#fff' },
-  /*
-  ** Global CSS
-  */
-  css: [],
-  /*
-  ** Plugins to load before mounting the App
-  */
+
+  // Global CSS (https://go.nuxtjs.dev/config-css)
+  css: [
+  ],
+
+  // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [
     {
       src: '~/plugins/vue-fb-customer-chat.js',
       ssr: false
     }
   ],
-  /*
-  ** Nuxt.js dev-modules
-  */
+
+  // Auto import components (https://go.nuxtjs.dev/config-components)
+  components: true,
+
+  // Modules for dev and build (recommended) (https://go.nuxtjs.dev/config-modules)
   buildModules: [
-    // Doc: https://github.com/nuxt-community/eslint-module
-    '@nuxtjs/eslint-module',
-    // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
-    '@nuxtjs/tailwindcss'
+    // https://go.nuxtjs.dev/tailwindcss
+    '@nuxtjs/tailwindcss',
   ],
-  /*
-  ** Nuxt.js modules
-  */
-  modules: [],
-  /*
-  ** Build configuration
-  */
+
+  // Modules (https://go.nuxtjs.dev/config-modules)
+  modules: [
+    // https://go.nuxtjs.dev/content
+    '@nuxt/content',
+  ],
+
+  // Content module configuration (https://go.nuxtjs.dev/content-config)
+  content: {},
+
+  // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {
-    /*
-    ** You can extend webpack config here
-    */
-    extend (config, ctx) {
-    }
   }
 }

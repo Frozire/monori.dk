@@ -1,10 +1,8 @@
-# Portfolio
-
-> A portfolio website
+# portfolio
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
