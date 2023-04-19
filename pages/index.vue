@@ -46,8 +46,8 @@
                   som danmarks største brands
                 </h2>
                 <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
-                  Jeg har i flere år hjulpet brands online med sunde, stabile og fremtidsikrede løsninger.
-                  Alt fra skræddersyede løsninger med millioner af besøgende til SEO-optimerede landing pages.
+                  Med over 10 års Laravel-erfaring har jeg leveret mange stabile og fremtidssikrede løsninger til diverse brands,
+                  fra skræddersyede platforme med millioner af brugere til simple SEO-optimerede landingssider.
                 </p>
               </div>
             </div>
