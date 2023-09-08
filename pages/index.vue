@@ -141,151 +141,109 @@
       </div>
     </div>
     <div class="bg-purple-800">
-      <div id="priser" class="pt-12 sm:pt-16 lg:pt-16">
-        <div class="max-w-screen-xl mx-auto text-center px-4 sm:px-6 lg:px-8">
-          <div class="max-w-3xl mx-auto lg:max-w-none">
-            <h2 class="text-lg leading-6 font-semibold text-gray-300 uppercase tracking-wider">
-              Priser
-            </h2>
-            <p
-              class="mt-2 text-3xl leading-9 font-extrabold text-white sm:text-4xl sm:leading-10 lg:text-5xl lg:leading-none"
-            >
-              Løsninger der passer til dine behov
-            </p>
-          </div>
-        </div>
+  <div id="priser" class="pt-12 sm:pt-16 lg:pt-16">
+    <div class="mx-auto max-w-screen-xl px-4 text-center sm:px-6 lg:px-8">
+      <div class="mx-auto max-w-3xl lg:max-w-none">
+        <h2 class="text-lg font-semibold uppercase leading-6 tracking-wider text-gray-300">Priser</h2>
+        <p class="mt-2 text-3xl font-extrabold leading-9 text-white sm:text-4xl sm:leading-10 lg:text-5xl lg:leading-none">Løsninger der passer til dine behov</p>
       </div>
-      <div class="mt-8 pb-8 bg-white sm:mt-12 lg:mt-16">
-        <div class="relative">
-          <div class="absolute inset-0 h-3/4 bg-purple-800" />
-          <div class="relative z-10 max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="max-w-md mx-auto lg:max-w-5xl lg:grid lg:grid-cols-2 lg:gap-5">
-              <div class="rounded-lg shadow-lg overflow-hidden">
-                <div class="px-6 py-8 bg-white sm:p-10 sm:pb-6">
-                  <div>
-                    <span
-                      class="inline-flex px-4 py-1 rounded-full text-sm leading-5 font-semibold tracking-wide uppercase bg-purple-100 text-purple-600"
-                    >
-                      Konsulentopgave
-                    </span>
-                  </div>
-                  <div class="mt-4 flex items-baseline text-6xl leading-none font-extrabold">
-                    900 DKK
-                    <span class="ml-1 text-2xl leading-8 font-medium text-gray-500">
-                      /time
-                    </span>
-                  </div>
-                  <p class="mt-2 text-md leading-7 text-gray-500">
-                    Inklusiv moms og udregnes per påbegyndt kvarter
-                  </p>
-                </div>
-                <div class="px-6 pt-6 pb-8 bg-gray-50 sm:p-10 sm:pt-6">
-                  <ul>
-                    <li class="flex items-start">
-                      <div class="flex-shrink-0">
-                        <svg class="h-6 w-6 text-purple-500" stroke="currentColor" fill="none" viewBox="0 0 24 24">
-                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
-                        </svg>
-                      </div>
-                      <p class="ml-3 text-base leading-6 text-gray-700">
-                        Erfaren og pålidelig rådgivning
-                      </p>
-                    </li>
-                    <li class="mt-4 flex items-start">
-                      <div class="flex-shrink-0">
-                        <svg class="h-6 w-6 text-purple-500" stroke="currentColor" fill="none" viewBox="0 0 24 24">
-                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
-                        </svg>
-                      </div>
-                      <p class="ml-3 text-base leading-6 text-gray-700">
-                        Sikker og professionel udvikling
-                      </p>
-                    </li>
-                    <li class="mt-4 flex items-start">
-                      <div class="flex-shrink-0">
-                        <svg class="h-6 w-6 text-purple-500" stroke="currentColor" fill="none" viewBox="0 0 24 24">
-                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
-                        </svg>
-                      </div>
-                      <p class="ml-3 text-base leading-6 text-gray-700">
-                        Løsninger der passer til dine behov
-                      </p>
-                    </li>
-                  </ul>
-                  <div class="mt-6 rounded-md shadow">
-                    <a
-                      href="https://facebook.com/monori.dk"
-                      class="flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-purple-800 hover:bg-gray-800 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out"
-                    >
-                      Kontakt mig
-                    </a>
-                  </div>
-                </div>
+    </div>
+  </div>
+  <div class="mt-8 bg-white pb-8 sm:mt-12 lg:mt-16">
+    <div class="relative">
+      <div class="absolute inset-0 h-3/4 bg-purple-800" />
+      <div class="relative z-10 mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
+        <div class="mx-auto max-w-md lg:grid lg:max-w-5xl lg:grid-cols-2 lg:gap-5">
+          <div class="overflow-hidden rounded-lg shadow-lg">
+            <div class="bg-white px-6 py-8 sm:p-10 sm:pb-6">
+              <div>
+                <span class="inline-flex rounded-full bg-purple-100 px-4 py-1 text-sm font-semibold uppercase leading-5 tracking-wide text-purple-600"> Konsulentopgave </span>
               </div>
-              <div class="mt-4 rounded-lg shadow-lg overflow-hidden lg:mt-0">
-                <div class="px-6 py-8 bg-white sm:p-10 sm:pb-6">
-                  <div>
-                    <span
-                      class="inline-flex px-4 py-1 rounded-full text-sm leading-5 font-semibold tracking-wide uppercase bg-purple-100 text-purple-600"
-                    >
-                      Opstartsmøde
-                    </span>
+              <div class="mt-4 flex items-baseline text-6xl font-extrabold leading-none">
+                900 DKK
+                <span class="ml-1 text-2xl font-medium leading-8 text-gray-500"> /time </span>
+              </div>
+              <p class="text-md mt-2 leading-7 text-gray-500">Inklusiv moms og udregnes per påbegyndt kvarter</p>
+            </div>
+            <div class="bg-gray-50 px-6 pb-8 pt-6 sm:p-10 sm:pt-6">
+              <ul>
+                <li class="flex items-start">
+                  <div class="flex-shrink-0">
+                    <svg class="h-6 w-6 text-purple-500" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
                   </div>
-                  <div class="mt-4 flex items-baseline text-6xl leading-none font-extrabold">
-                    Gratis
+                  <p class="ml-3 text-base leading-6 text-gray-700">Erfaren og pålidelig rådgivning</p>
+                </li>
+                <li class="mt-4 flex items-start">
+                  <div class="flex-shrink-0">
+                    <svg class="h-6 w-6 text-purple-500" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
                   </div>
-                  <p class="mt-2 text-md leading-7 text-gray-500">
-                    Én time hvor vi sammen ser hinanden an
-                  </p>
-                </div>
-                <div class="px-6 pt-6 pb-8 bg-gray-50 sm:p-10 sm:pt-6">
-                  <ul>
-                    <li class="flex items-start">
-                      <div class="flex-shrink-0">
-                        <svg class="h-6 w-6 text-purple-500" stroke="currentColor" fill="none" viewBox="0 0 24 24">
-                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
-                        </svg>
-                      </div>
-                      <p class="ml-3 text-base leading-6 text-gray-700">
-                        Én times uforpligtende møde
-                      </p>
-                    </li>
-                    <li class="mt-4 flex items-start">
-                      <div class="flex-shrink-0">
-                        <svg class="h-6 w-6 text-purple-500" stroke="currentColor" fill="none" viewBox="0 0 24 24">
-                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
-                        </svg>
-                      </div>
-                      <p class="ml-3 text-base leading-6 text-gray-700">
-                        Præsentation af mine erfaringer
-                      </p>
-                    </li>
-                    <li class="mt-4 flex items-start">
-                      <div class="flex-shrink-0">
-                        <svg class="h-6 w-6 text-purple-500" stroke="currentColor" fill="none" viewBox="0 0 24 24">
-                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
-                        </svg>
-                      </div>
-                      <p class="ml-3 text-base leading-6 text-gray-700">
-                        Fælles fortventningsafstemning
-                      </p>
-                    </li>
-                  </ul>
-                  <div class="mt-6 rounded-md shadow">
-                    <a
-                      href="https://facebook.com/monori.dk"
-                      class="flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-purple-800 hover:bg-gray-800 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out"
-                    >
-                      Kontakt mig
-                    </a>
+                  <p class="ml-3 text-base leading-6 text-gray-700">Sikker og professionel udvikling</p>
+                </li>
+                <li class="mt-4 flex items-start">
+                  <div class="flex-shrink-0">
+                    <svg class="h-6 w-6 text-purple-500" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
                   </div>
-                </div>
+                  <p class="ml-3 text-base leading-6 text-gray-700">Løsninger der passer til dine behov</p>
+                </li>
+              </ul>
+              <div class="mt-6">
+                <a href="https://www.linkedin.com/in/nkfrank/" class="focus:shadow-outline flex items-center justify-center rounded-md border border-transparent bg-purple-800 px-5 py-3 text-base font-medium leading-6 text-white shadow transition duration-150 ease-in-out hover:bg-gray-800 focus:outline-none"> Kontakt mig på LinkedIn </a>
+                <div class="mt-1 text-center">Eller på <a href="https://facebook.com/monori.dk" class="font-bold text-indigo-600">Facebook</a></div>
+              </div>
+            </div>
+          </div>
+          <div class="mt-4 overflow-hidden rounded-lg shadow-lg lg:mt-0">
+            <div class="bg-white px-6 py-8 sm:p-10 sm:pb-6">
+              <div>
+                <span class="inline-flex rounded-full bg-purple-100 px-4 py-1 text-sm font-semibold uppercase leading-5 tracking-wide text-purple-600"> Opstartsmøde </span>
+              </div>
+              <div class="mt-4 flex items-baseline text-6xl font-extrabold leading-none">Gratis</div>
+              <p class="text-md mt-2 leading-7 text-gray-500">Én time hvor vi sammen ser hinanden an</p>
+            </div>
+            <div class="bg-gray-50 px-6 pb-8 pt-6 sm:p-10 sm:pt-6">
+              <ul>
+                <li class="flex items-start">
+                  <div class="flex-shrink-0">
+                    <svg class="h-6 w-6 text-purple-500" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <p class="ml-3 text-base leading-6 text-gray-700">Én times uforpligtende møde</p>
+                </li>
+                <li class="mt-4 flex items-start">
+                  <div class="flex-shrink-0">
+                    <svg class="h-6 w-6 text-purple-500" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <p class="ml-3 text-base leading-6 text-gray-700">Præsentation af mine erfaringer</p>
+                </li>
+                <li class="mt-4 flex items-start">
+                  <div class="flex-shrink-0">
+                    <svg class="h-6 w-6 text-purple-500" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <p class="ml-3 text-base leading-6 text-gray-700">Fælles fortventningsafstemning</p>
+                </li>
+              </ul>
+              <div class="mt-6">
+                <a href="https://www.linkedin.com/in/nkfrank/" class="focus:shadow-outline flex items-center justify-center rounded-md border border-transparent bg-purple-800 px-5 py-3 text-base font-medium leading-6 text-white shadow transition duration-150 ease-in-out hover:bg-gray-800 focus:outline-none"> Kontakt mig på LinkedIn </a>
+                <div class="mt-1 text-center">Eller på <a href="https://facebook.com/monori.dk" class="font-bold text-indigo-600">Facebook</a></div>
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
+  </div>
+</div>
 
     <div id="faq" class="max-w-screen-xl mx-auto pt-12 pb-16 sm:pt-16 sm:pb-20 px-4 sm:px-6 lg:pt-20 lg:pb-28 lg:px-8">
       <h2 class="text-3xl leading-9 font-extrabold text-gray-900">
