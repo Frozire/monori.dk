@@ -124,7 +124,7 @@
                   <br><br>
                   Ved siden af dette, tilbyder jeg konsulenttjenester baseret på min brede erfaring fra prominente firmaer som Aller Media A/S, Bonnier Publications og Mybanker. Min ekspertise strækker sig fra at opbygge skalerbare digitale løsninger til at forstå unikke brandbehov.
                   <br><br>
-                  Med en solid teknisk baggrund og et øje for unikke løsninger, kan jeg hjælpe jer i dine digitale bestræbelser.
+                  Med en solid teknisk baggrund og et øje for unikke løsninger, kan jeg hjælpe jer i jeres digitale bestræbelser.
               </p>
             </div>
             <div class="mt-12 relative sm:max-w-xs sm:mx-auto lg:mt-0 lg:max-w-none lg:mx-0 lg:col-span-6 lg:flex lg:items-center">
@@ -170,7 +170,7 @@
                     </span>
                   </div>
                   <div class="mt-4 flex items-baseline text-6xl leading-none font-extrabold">
-                    899 DKK
+                    900 DKK
                     <span class="ml-1 text-2xl leading-8 font-medium text-gray-500">
                       /time
                     </span>
