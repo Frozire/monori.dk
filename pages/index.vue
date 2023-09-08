@@ -120,16 +120,11 @@
                 Nicklas Kevin Frank
               </h2>
               <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
-                Jeg arbejder til dagligt som webudvikler hos Aller Media A/S, hvor jeg
-                hjælper deres mange brands med at etablere en digital tilstedeværelse.
-                <br><br>
-                De mange brands giver en varieret arbejdsdag, der bidrager til en bred erfaring
-                med forskellige behov og løsninger. En type opgaver jeg også har været vant til
-                fra mit forrige arbejde hos Bonnier Publications.
-                <br><br>
-                Flere års arbejde i virksomheder med mange forskellige brands
-                og udvikling af løsninger dertil har givet mig de erfaringer, som jeg her
-                ønsker at stille til rådighed for dig.
+                  I min nuværende rolle som Software Arkitekt hos Hobbii, en globalt anerkendt e-commerce platform med millioner af besøgende, styrker jeg den tekniske rygrad af en hurtigt voksende forretning. 
+                  <br><br>
+                  Ved siden af dette, tilbyder jeg konsulenttjenester baseret på min brede erfaring fra prominente firmaer som Aller Media A/S, Bonnier Publications og Mybanker. Min ekspertise strækker sig fra at opbygge skalerbare digitale løsninger til at forstå unikke brandbehov.
+                  <br><br>
+                  Med en solid teknisk baggrund og et øje for unikke løsninger, kan jeg hjælpe jer i dine digitale bestræbelser.
               </p>
             </div>
             <div class="mt-12 relative sm:max-w-xs sm:mx-auto lg:mt-0 lg:max-w-none lg:mx-0 lg:col-span-6 lg:flex lg:items-center">
@@ -297,78 +292,64 @@
         Ofte stillede spørgsmål
       </h2>
       <div class="mt-6 border-t-2 border-gray-100 pt-10">
-        <dl class="md:grid md:grid-cols-2 md:gap-8">
-          <div>
+    <dl class="md:grid md:grid-cols-2 md:gap-8">
+        <div>
             <div>
-              <dt class="text-lg leading-6 font-medium text-gray-900">
-                Hvilke teknologier bruger du?
-              </dt>
-              <dd class="mt-2">
-                <p class="text-base leading-6 text-gray-500">
-                  Jeg vælger altid de teknologier, der passer bedst til opgaven. Ofte er det Laravel til
-                  skræddersyede løsninger, WordPress hvis der kræves CMS funktionalitet, og NodeJS til services.
-                  Det vigtigste er dog altid, at vi finder det, der passer til dit projekts behov.
-                </p>
-              </dd>
+                <dt class="text-lg leading-6 font-medium text-gray-900">
+                    Hvilke teknologier foretrækker du?
+                </dt>
+                <dd class="mt-2">
+                    <p class="text-base leading-6 text-gray-500">
+                        Jeg skræddersyr altid løsninger baseret på projektets krav. Typisk tager jeg Laravel i brug til skræddersyede løsninger, WordPress når CMS er i spil, og NodeJS til specialiserede services. Målet er at matche dit projekts unikke behov.
+                    </p>
+                </dd>
             </div>
             <div class="mt-12">
-              <dt class="text-lg leading-6 font-medium text-gray-900">
-                Hvorfor skal jeg vælge dig og ikke et bureau?
-              </dt>
-              <dd class="mt-2">
-                <p class="text-base leading-6 text-gray-500">
-                  Bureauer er gode til store opgaver, men hvis du har en mindre opgave,
-                  kan du spare mange penge med den direkte kommunikation, du får hos en konsulent.
-                  Med mig får du den samme sikre og erfarne rådgivning som nogle af Danmarks største brands.
-                  Det er din sikkerhed for en professionel og holdbar levering uden forpligtelserne
-                  ved et stort bureau.
-                </p>
-              </dd>
+                <dt class="text-lg leading-6 font-medium text-gray-900">
+                    Hvorfor mig frem for et bureau?
+                </dt>
+                <dd class="mt-2">
+                    <p class="text-base leading-6 text-gray-500">
+                        Mens bureauer kan håndtere omfattende projekter, tilbyder jeg effektivitet og direkte kommunikation for mindre til mellemstore projekter. Jeg giver den samme erfarne rådgivning som ved større aktører – men med en personlig touch og ofte mere omkostningseffektivt.
+                    </p>
+                </dd>
             </div>
             <div class="mt-12">
-              <dt class="text-lg leading-6 font-medium text-gray-900">
-                Hvilken teknologi skal jeg vælge?
-              </dt>
-              <dd class="mt-2">
-                <p class="text-base leading-6 text-gray-500">
-                  Der er ingen teknologi der passer til alle behov,
-                  og det er derfor vigtigt at man finder frem til den som passer dig bedst.
-                  Hvad enten behovet er teknisk, at skulle passe
-                  i et eksisterende setup, eller at det er let at
-                  finde kompetencer til vedligeholdelse efterfølgende.
-                </p>
-              </dd>
+                <dt class="text-lg leading-6 font-medium text-gray-900">
+                    Hvilken teknologi passer til mig?
+                </dt>
+                <dd class="mt-2">
+                    <p class="text-base leading-6 text-gray-500">
+                        Valget af teknologi afhænger af dine unikke krav. Det kan være drevet af tekniske behov, eksisterende setups eller vedligeholdelsesevne. Jeg er her for at vejlede dig gennem den beslutning.
+                    </p>
+                </dd>
             </div>
-          </div>
-          <div class="mt-12 md:mt-0">
+        </div>
+        <div class="mt-12 md:mt-0">
             <div>
-              <dt class="text-lg leading-6 font-medium text-gray-900">
-                Jeg samarbejder med et bureau men savner sparring omkring deres leverancer?
-              </dt>
-              <dd class="mt-2">
-                <p class="text-base leading-6 text-gray-500">
-                  Det er altid vigtigt at sikre sig, at man får hvad man har aftalt, og hvad man betaler for.
-                  Derfor tilbyder jeg gennemgang af eksisterende kodebaser,
-                  leverancer fra bureauer, eller rådgivning ved opstart af nye projekter.
-                </p>
-              </dd>
+                <dt class="text-lg leading-6 font-medium text-gray-900">
+                    Brug for sparring på bureauets leverancer?
+                </dt>
+                <dd class="mt-2">
+                    <p class="text-base leading-6 text-gray-500">
+                        Det er essentielt at få den kvalitet, man betaler for. Jeg tilbyder gennemgang af kodebaser, tjek af bureauers leverancer, og rådgivning ved projektstart.
+                    </p>
+                </dd>
             </div>
             <div class="mt-12">
-              <dt class="text-lg leading-6 font-medium text-gray-900">
-                Hvorfor arbejder du ikke fuldtid som konsulent?
-              </dt>
-              <dd class="mt-2">
-                <p class="text-base leading-6 text-gray-500">
-                  Det er en prioritering. Jeg værdsætter den balance og sikkerhed, det giver at have
-                  et fast arbejde. De steder jeg er ansat, giver mig en masse erfaring og
-                  et evigt udfordrende miljø, som jeg ikke er klar til at give slip på. Hvis jeg supplerer
-                  med konsulentopgaver, får jeg friheden, men beholder sikkerheden fra et fast arbejde.
-                </p>
-              </dd>
+                <dt class="text-lg leading-6 font-medium text-gray-900">
+                    Hvorfor ikke fuldtidskonsulent?
+                </dt>
+                <dd class="mt-2">
+                    <p class="text-base leading-6 text-gray-500">
+                        Jeg sætter pris på den stabilitet og fortsatte læring, et fast arbejde bringer. Konsulentarbejdet giver mig en ekstra dimension af frihed og diversitet, uden at skulle gå på kompromis med de fordele, et fast job giver.
+                    </p>
+                </dd>
             </div>
-          </div>
-        </dl>
-      </div>
+        </div>
+    </dl>
+</div>
+
     </div>
 
     <div class="bg-white">
@@ -409,7 +390,7 @@
         </div>
         <div class="mt-8">
           <p class="text-center text-base leading-6 text-gray-400">
-            &copy; 2020 Monori - All rights reserved.
+            &copy; 2023 Monori Digital - All rights reserved.
           </p>
         </div>
       </div>
