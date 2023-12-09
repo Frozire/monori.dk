@@ -141,14 +141,17 @@
       </div>
     </div>
     <div class="bg-purple-800">
-  <div id="priser" class="pt-12 sm:pt-16 lg:pt-16">
+  <div id="priser" class="pt-12 sm:pt-16">
     <div class="mx-auto max-w-screen-xl px-4 text-center sm:px-6 lg:px-8">
       <div class="mx-auto max-w-3xl lg:max-w-none">
         <h2 class="text-lg font-semibold uppercase leading-6 tracking-wider text-gray-300">Priser</h2>
         <p class="mt-2 text-3xl font-extrabold leading-9 text-white sm:text-4xl sm:leading-10 lg:text-5xl lg:leading-none">Løsninger der passer til dine behov</p>
+        <!-- New paragraph -->
+        <p class="mt-2 text-xl font-bold text-white">Jeg er fuldt booket hele 2024, og den nærmeste ledige tid er tidligst i 2025.</p>
       </div>
     </div>
   </div>
+
   <div class="mt-8 bg-white pb-8 sm:mt-12 lg:mt-16">
     <div class="relative">
       <div class="absolute inset-0 h-3/4 bg-purple-800" />
@@ -160,7 +163,7 @@
                 <span class="inline-flex rounded-full bg-purple-100 px-4 py-1 text-sm font-semibold uppercase leading-5 tracking-wide text-purple-600"> Konsulentopgave </span>
               </div>
               <div class="mt-4 flex items-baseline text-6xl font-extrabold leading-none">
-                900 DKK
+                1200 DKK
                 <span class="ml-1 text-2xl font-medium leading-8 text-gray-500"> /time </span>
               </div>
               <p class="text-md mt-2 leading-7 text-gray-500">Inklusiv moms og udregnes per påbegyndt kvarter</p>
