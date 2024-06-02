@@ -163,7 +163,7 @@
                 <span class="inline-flex rounded-full bg-purple-100 px-4 py-1 text-sm font-semibold uppercase leading-5 tracking-wide text-purple-600"> Konsulentopgave </span>
               </div>
               <div class="mt-4 flex items-baseline text-6xl font-extrabold leading-none">
-                1600 DKK
+                1200 DKK
                 <span class="ml-1 text-2xl font-medium leading-8 text-gray-500"> /time </span>
               </div>
               <p class="text-md mt-2 leading-7 text-gray-500">Inklusiv moms og udregnes per påbegyndt kvarter</p>
