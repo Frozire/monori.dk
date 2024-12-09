@@ -141,13 +141,13 @@
       </div>
     </div>
     <div class="bg-purple-800">
-  <div id="priser" class="pt-12 sm:pt-16 hidden">
+  <div id="priser" class="pt-12 sm:pt-16">
     <div class="mx-auto max-w-screen-xl px-4 text-center sm:px-6 lg:px-8">
       <div class="mx-auto max-w-3xl lg:max-w-none">
         <h2 class="text-lg font-semibold uppercase leading-6 tracking-wider text-gray-300">Priser</h2>
         <p class="mt-2 text-3xl font-extrabold leading-9 text-white sm:text-4xl sm:leading-10 lg:text-5xl lg:leading-none">Løsninger der passer til dine behov</p>
         <!-- New paragraph -->
-        <p class="mt-2 text-xl font-bold text-white">Jeg er fuldt booket hele 2024, og den nærmeste ledige tid er tidligst i 2025.</p>
+        <p class="mt-2 text-xl font-bold text-white hidden">Jeg er fuldt booket hele 2024, og den nærmeste ledige tid er tidligst i 2025.</p>
       </div>
     </div>
   </div>
