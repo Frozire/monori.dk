@@ -141,7 +141,7 @@
       </div>
     </div>
     <div class="bg-purple-800">
-  <div id="priser" class="pt-12 sm:pt-16">
+  <div id="priser" class="pt-12 sm:pt-16 hidden">
     <div class="mx-auto max-w-screen-xl px-4 text-center sm:px-6 lg:px-8">
       <div class="mx-auto max-w-3xl lg:max-w-none">
         <h2 class="text-lg font-semibold uppercase leading-6 tracking-wider text-gray-300">Priser</h2>
@@ -163,7 +163,7 @@
                 <span class="inline-flex rounded-full bg-purple-100 px-4 py-1 text-sm font-semibold uppercase leading-5 tracking-wide text-purple-600"> Konsulentopgave </span>
               </div>
               <div class="mt-4 flex items-baseline text-6xl font-extrabold leading-none">
-                1200 DKK
+                900 DKK
                 <span class="ml-1 text-2xl font-medium leading-8 text-gray-500"> /time </span>
               </div>
               <p class="text-md mt-2 leading-7 text-gray-500">Inklusiv moms og udregnes per påbegyndt kvarter</p>
